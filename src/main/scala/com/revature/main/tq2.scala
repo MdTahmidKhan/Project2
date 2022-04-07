@@ -41,6 +41,8 @@ object tq2 {
       .where(tTS.col("State")===t2020.col("State"))
     joined.show(3)
 
+    //heres a note I made
+
 
 
 
